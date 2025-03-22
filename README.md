@@ -8,7 +8,7 @@ This repository contains a Power BI dashboard for data visualization and analyti
 ![Power BI Dashboard](dashboard.png)
 
 ### 🎥 Dashboard Video Demo
-[![Watch the video](dashboard.png)](dashboard.mp4)
+[![Watch the video](dashboard.mp4)](dashboard.mp4)
 
 ## How to View the Dashboard
 1. Download the `dashboard.pbix` file.
