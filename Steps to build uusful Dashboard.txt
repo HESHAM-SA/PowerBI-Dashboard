@@ -1,0 +1,4 @@
+1. understand data (EDA).
+2. what stockholder want from data ? 
+3. clean data using python for deep cleaning. and Feature extraction 
+4. create interactive dashboard using power bi
